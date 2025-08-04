@@ -22,7 +22,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "npm install && uname -a",
+	// "postCreateCommand": "npm install && uname -a",
 	"customizations": {
 		"vscode": {
 			"extensions": [
